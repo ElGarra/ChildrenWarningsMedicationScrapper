@@ -5,17 +5,22 @@ import re
 alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 letter = alphabet[0]
 
-url = f"https://www.medicinesforchildren.org.uk/medicines/allopurinol-for-hyperuricaemia/"
-data = requests.get(url)
+def actualWebScrapping(url):
 
-my_data = []
+    data = requests.get(url)
 
-html = BeautifulSoup(data.text, "html.parser")
-articles = html.find("h3", {"id": "urgent-side-effects"}).find_next_sibling()
+    my_data = []
 
-while articles is not None:
-    article_data = str(articles.p).replace("<p>", "").replace("</p>", "") # Try later with re
-    my_data.append(article_data)
-    articles = articles.find_next_sibling() 
+    html = BeautifulSoup(data.text, "html.parser")
+    try:
+        articles = html.find("h3", {"id": "urgent-side-effects"}).find_next_sibling()
+        while articles is not None:
+            article_data = str(articles.p).replace("<p>", "").replace("</p>", "") # Try later with re
+            my_data.append(article_data)
+            articles = articles.find_next_sibling() 
+    
+        return my_data
 
-pprint(my_data)
+    except AttributeError as e:
+        return None
+    
