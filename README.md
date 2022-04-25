@@ -14,6 +14,10 @@ After that, you must enable the virtual enviroment:
 
 In order to install all the dependencies, you have to run the following command:
 
+```pip3 freeze```
+
+After that, you have to copy the output and paste it on the ```requirements.txt``` file. Finally, execute this command:
+
 ```pip3 install -r requirements.txt```
 
 Now you are ready to run the scrapper!
