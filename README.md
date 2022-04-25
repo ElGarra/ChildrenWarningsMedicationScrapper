@@ -1,18 +1,18 @@
 # ChildrenWarningsMedicationScrapper :chart_with_upwards_trend:
 
-This scrapper allow it users to find warnings of different medications for childrens. We are currently working on the scrapper so it isn't finished. 
+This scrapper allows users to identify possible side effects of different medications that can be consumed by childrens. We are currently working on the scrapper so it is not finished. 
 
 1. Setting the scrapper
 
-first of all, you have to install venv library on python, because the scrapper runs on a virtual enviroment:
+First of all, you have to install the venv library on Python, since we are working on a virtual enviroment:
 
 ```pip3 install venv```
 
-After that, you must enable the virtual enviroment:
+After that, you must active the virtual enviroment:
 
 ```source scrappingenv/bin/activate```
 
-In order to install all the dependencies, you have to run the following command:
+In order to install all the dependencies, please run the following command:
 
 ```pip3 freeze```
 
@@ -24,7 +24,7 @@ Now you are ready to run the scrapper!
 
 2. Running the scraper
 
-Just run the script with ```python3 scrapper.py```
+Simple write this line of code in your terminal ```python3 scrapper.py```
 
 If you want to deactivate the virtual enviroment, just execute ```deactivate```
 
