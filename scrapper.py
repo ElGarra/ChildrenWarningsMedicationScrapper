@@ -1,11 +1,8 @@
-from calendar import c
 import requests
 from bs4 import BeautifulSoup
-from pprint import pprint
-import re
 
-#from webscrapping import actualWebScrapping
 
+# Class to scrapp https://www.medicinesforchildren.org.uk/ webpage and cathc the data
 class Scrapper():
 
     def __init__(self):
@@ -21,18 +18,20 @@ class Scrapper():
         self.my_data = []
         self.all_scrapped_data = []
         self.all_data = []
+        self.run_letter_counter = 0
 
+# Method to scrapp each medication and store the name and warnings on a list
     def scrapCurrentURL(self, url):
 
         data = requests.get(url)
-
+        medication_name = url[50:len(url) - 1]
         my_data = []
-
+        my_data.append(medication_name)
         html = BeautifulSoup(data.text, "html.parser")
         try:
             articles = html.find("h3", {"id": "urgent-side-effects"}).find_next_sibling()
             while articles is not None:
-                article_data = str(articles.p).replace("<p>", "").replace("</p>", "") # Try later with re
+                article_data = str(articles.p).replace("<p>", "").replace("</p>", "") # Try later with regex
                 my_data.append(article_data)
                 articles = articles.find_next_sibling() 
         
@@ -42,6 +41,7 @@ class Scrapper():
             return None
     
 
+# Method to get the URL for each medication
     def getURLForScrapping(self):
 
         self.html = BeautifulSoup(self.data.text, "html.parser")
@@ -51,6 +51,7 @@ class Scrapper():
                 self.urls.append(a["href"])
         return self.urls
 
+# Method to set the parameters for the scrapper and run the functions that get the url and scrap the url
     def setScrapperParameters(self, i):
         self.alphabet_index = i
         self.letter = self.alphabet[self.alphabet_index]
@@ -76,16 +77,12 @@ class Scrapper():
         self.urls = []
         return self.all_scrapped_data
 
+# Method to run the scrapper and store all the medication data in a list
     def runScrapper(self):
         for i in range(len(self.alphabet)):
             scrapped_data = self.setScrapperParameters(i)
             self.all_data.append(scrapped_data)
 
-#print(all_scrapped_data)
 
-scrapper = Scrapper()
-scrapper.runScrapper()
-for letra in scrapper.all_data:
-    print(letra)
-    print("------------------------------------------------")
+
 

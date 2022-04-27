@@ -24,7 +24,7 @@ Now you are ready to run the scrapper!
 
 2. Running the scraper
 
-Just run the script with ```python3 scrapper.py```
+Just run the script with ```python3 main.py```
 
 If you want to deactivate the virtual enviroment, just execute ```deactivate```
 
