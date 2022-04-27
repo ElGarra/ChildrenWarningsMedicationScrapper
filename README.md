@@ -24,7 +24,7 @@ Now you are ready to run the scrapper!
 
 2. Running the scraper
 
-Simple write this line of code in your terminal ```python3 scrapper.py```
+Simple write this line of code in your terminal ```python3 main.py```
 
 If you want to deactivate the virtual enviroment, just execute ```deactivate```
 
