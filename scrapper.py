@@ -1,5 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
+from googletrans import Translator
 
 
 # Class to scrapp https://www.medicinesforchildren.org.uk/ webpage and cathc the data
@@ -19,20 +20,30 @@ class Scrapper():
         self.all_scrapped_data = []
         self.all_data = []
         self.run_letter_counter = 0
+        self.translator = Translator()
 
 # Method to scrapp each medication and store the name and warnings on a list
     def scrapCurrentURL(self, url):
-
         data = requests.get(url)
         medication_name = url[50:len(url) - 1]
+        aux_list = []
         my_data = []
-        my_data.append(medication_name)
+        for char in medication_name:
+            if char != "-":
+                aux_list.append(char)
+            else:
+                aux_list.append(" ")
+        medication = "".join(aux_list)
+        medication_translated = self.translator.translate(medication, src='en', dest='es')
+        my_data.append(medication_translated.text)
+
         html = BeautifulSoup(data.text, "html.parser")
         try:
             articles = html.find("h3", {"id": "urgent-side-effects"}).find_next_sibling()
             while articles is not None:
                 article_data = str(articles.p).replace("<p>", "").replace("</p>", "") # Try later with regex
-                my_data.append(article_data)
+                article_data_translated = self.translator.translate(article_data, src='en', dest='es')
+                my_data.append(article_data_translated.text)
                 articles = articles.find_next_sibling() 
         
             return my_data
