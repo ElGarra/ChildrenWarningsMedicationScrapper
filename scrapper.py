@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 from googletrans import Translator
-import re
+
 
 # Class to scrapp https://www.medicinesforchildren.org.uk/ webpage and cathc the data
 class Scrapper():
@@ -41,9 +41,9 @@ class Scrapper():
         try:
             articles = html.find("h3", {"id": "urgent-side-effects"}).find_next_sibling()
             while articles is not None:
-                article_data = re.sub("<[^>]*>", "", str(articles.p)) # Try later with regex
+                article_data = str(articles.p).replace("<p>", "").replace("</p>", "") # Try later with regex
                 article_data_translated = self.translator.translate(article_data, src='en', dest='es')
-                my_data.append(article_data_translated.text.replace("\n", " "))
+                my_data.append(article_data_translated.text)
                 articles = articles.find_next_sibling() 
         
             return my_data
