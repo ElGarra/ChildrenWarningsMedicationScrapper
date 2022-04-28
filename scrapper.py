@@ -41,7 +41,7 @@ class Scrapper():
         try:
             articles = html.find("h3", {"id": "urgent-side-effects"}).find_next_sibling()
             while articles is not None:
-                article_data = re.sub("<[^>]*>", "", str(articles.p)) # Try later with regex
+                article_data = re.sub("<[^>]*>", "", str(articles.p)) 
                 article_data_translated = self.translator.translate(article_data, src='en', dest='es')
                 my_data.append(article_data_translated.text.replace("\n", " "))
                 articles = articles.find_next_sibling() 
