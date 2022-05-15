@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import re
+import csv
+import json
 
 # Class to scrapp https://www.medicinesforchildren.org.uk/ webpage and cathc the data
 class Scrapper():
@@ -21,6 +23,10 @@ class Scrapper():
         self.all_data = []
         self.run_letter_counter = 0
         self.translator = Translator()
+        self.file_name = "medicines_for_children.csv"
+        self.file = open(self.file_name, "w")
+        self.writer = csv.writer(self.file, delimiter = ";")
+        self.dict_list = []
 
 # Method to scrapp each medication and store the name and warnings on a list
     def scrapCurrentURL(self, url):
@@ -48,7 +54,7 @@ class Scrapper():
         
             return my_data
 
-        except AttributeError as e:
+        except AttributeError:
             return None
     
 
@@ -92,8 +98,30 @@ class Scrapper():
     def runScrapper(self):
         for i in range(len(self.alphabet)):
             scrapped_data = self.setScrapperParameters(i)
+            #print(scrapped_data)
             self.all_data.append(scrapped_data)
+        #print(self.all_data)
 
 
+# Method to write the data in a csv file
+    def writeData(self):    
+        for data in self.all_data:
+            print("LARGO DE LETRA: " + str(len(data)))
+            if len(data) > 10:
+                data = data[12:]
+            for data_list in data:
+                if data_list is not None:
+                    concat = ""
+                    for i in range(1, len(data_list)):
+                        concat += data_list[i]
+                        concat += " "
+                    data_dict = {"name": data_list[0], "BabyAlert": concat}
+                    self.dict_list.append(data_dict)
+                    self.json_list = json.dumps(self.dict_list, ensure_ascii=False, indent=4).encode('utf8')
+                    self.writer.writerow(data_list)
+                    #for i in range(0, len(data_list)):
+                        #self.writer.writerow(data_list[i])
+        with open("BabyAlertScrapper.json", "w", encoding="utf8") as file:
+            file.write(self.json_list.decode())
 
 

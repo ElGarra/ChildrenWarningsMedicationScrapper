@@ -1,0 +1,506 @@
+[
+    {
+        "name": "crema de aciclovir para el herpes labial",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o la cara, los labios o la lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la crema de aciclovir. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "pomada oftálmica de aciclovir para la infección por herpes simple",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la pomada oftálmica de aciclovir. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "aciclovir oral para infecciones virales",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico a Aciclovir. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "alopurinol para la hiperuricemia",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o la cara, los labios o la lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico al alopurinol. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo parece tener hematomas con más facilidad o el sangrado no se detiene tan rápido como de costumbre, o si la piel o la parte blanca de los ojos se tiñen de amarillo, comuníquese con su médico de inmediato, ya que puede haber un problema con la sangre o la sangre de su hijo. hígado. Si a su hijo le sale una erupción en la piel, deje de darle el medicamento y póngase en contacto con su médico inmediatamente. Es posible que deseen suspender el medicamento y comenzarlo de nuevo gradualmente. Esto puede ocurrir meses o años después de iniciado el tratamiento. "
+    },
+    {
+        "name": "amiodarona para ritmos cardíacos anormales",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o la cara, los labios o la lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la amiodarona. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si los latidos del corazón de su hijo se vuelven más irregulares o se vuelven muy lentos (los signos a tener en cuenta incluyen sensación de desmayo, mareos, cansancio inusual y dificultad para respirar), lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo pierde la vista en un ojo, los globos oculares se oscurecen y pierden color, o le duelen los ojos y le duele moverlos, deje de darle amiodarona y consulte a un médico o lleve a su hijo al hospital de inmediato. Si su hijo tiene dificultad para respirar, se queja de opresión en el pecho, tiene tos constante, tose con sangre o tiene sibilancias, deje de darle Amiodarona y póngase en contacto con su médico o lleve a su hijo al hospital de inmediato. Si su hijo comienza a sentirse mal cada pocas horas, tiene dolores de estómago o fiebre (temperatura superior a 38 °C), tiene mucho sueño o se tiñe de amarillo la piel o el blanco de los ojos, deje de darle Amiodarona y contacte con su médico o tome su hijo al hospital de inmediato, ya que puede haber un problema con el hígado de su hijo. La piel de su hijo puede volverse más sensible a la luz solar. Manténgalos fuera del sol fuerte. Cuando estén al aire libre, deben usar blusas y pantalones de manga larga y un sombrero, y usar bloqueador solar de factor alto (al menos SPF 30). "
+    },
+    {
+        "name": "amitriptilina para el dolor neuropático",
+        "BabyAlert": "Si su hijo tiene un ritmo cardíaco irregular o rápido (aleteo o acelerado), comuníquese con su médico de inmediato. Si su hijo tiene problemas de visión (por ejemplo, visión borrosa o doble), póngase en contacto con su médico inmediatamente. "
+    },
+    {
+        "name": "amlodipino para la presion arterial alta",
+        "BabyAlert": "Si su hijo tiene latidos cardíacos irregulares o rápidos (aleteo o aceleración), llévelo al hospital o llame a una ambulancia de inmediato. Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a amlodipino. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "amoxicilina para infecciones bacterianas",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la amoxicilina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo desarrolla una erupción roja llena de baches, informe a su médico, ya que su hijo puede tener fiebre glandular u otra infección viral. "
+    },
+    {
+        "name": "ampicilina para la infeccion",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la ampicilina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo desarrolla una erupción roja llena de baches, informe a su médico, ya que su hijo puede tener fiebre glandular u otra infección viral. "
+    },
+    {
+        "name": "aripiprazol para esquizofrenia trastorno bipolar y tics",
+        "BabyAlert": "Póngase en contacto con su médico de inmediato si su hijo tiene alguno de los siguientes: "
+    },
+    {
+        "name": "aspirina para la prevención de coágulos de sangre",
+        "BabyAlert": "Si a su hijo le duele mucho el estómago, vomita sangre o sus heces (caca) son muy oscuras, comuníquese con su médico o lleve a su hijo al hospital de inmediato, ya que puede tener una úlcera. Si su hijo tiene vómitos intensos y síntomas virales (fiebre [temperatura superior a 38 °C], dolores y molestias), comuníquese con su médico de inmediato, en caso de que tenga el síndrome de Reye. Si su hijo tiene una erupción en las primeras 2 semanas de tomar Aspirina, comuníquese con su médico de inmediato, ya que puede ser alérgico a la Aspirina. No administre más medicamentos hasta que haya hablado con su médico. Si su hijo tiene asma, es posible que tenga más ataques de lo normal. Si esto sucede, póngase en contacto con su médico para que le aconseje. "
+    },
+    {
+        "name": "atenolol para la hipertensión",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias después de tomar atenolol, llévelo al hospital o llame a una ambulancia de inmediato, ya que puede haber desencadenado un ataque de asma. "
+    },
+    {
+        "name": "atomoxetina para el TDAH",
+        "BabyAlert": "Ocasionalmente, algunos niños que toman atomoxetina tienen pensamientos suicidas (pensamientos de suicidarse) o se vuelven hostiles (agresivos, discuten mucho, enojados) o pueden parecer emocionalmente inestables. Si su hijo tiene alguna de estas reacciones, o si está preocupado, comuníquese con su médico de inmediato. Si su hijo tiene orina oscura, un tinte amarillento en la piel o en el blanco de los ojos, sensibilidad en el lado derecho del estómago justo debajo de las costillas, náuseas, cansancio, picazón o síntomas parecidos a los de la gripe, comuníquese con su médico. inmediatamente ya que puede haber un problema con el hígado de su hijo. "
+    },
+    {
+        "name": "atorvastatina para el colesterol alto",
+        "BabyAlert": "En raras ocasiones, la atorvastatina puede causar músculos inflamados (hinchados). Si su hijo desarrolla dolores o debilidad en los músculos (brazos o piernas), o sus músculos están sensibles al tacto, comuníquese con su médico de inmediato. Muy raramente, Atorvastatin puede causar problemas respiratorios. Si su hijo desarrolla una tos que no desaparece o le falta el aire, busque el consejo de su médico. Si su hijo adquiere un tinte amarillento en la piel o en la parte blanca de los ojos, comuníquese con su médico de inmediato, ya que puede haber un problema con el hígado de su hijo. "
+    },
+    {
+        "name": "azatioprina para la enfermedad inflamatoria intestinal",
+        "BabyAlert": "Si su hijo tiene síntomas similares a los de la gripe, dolor de garganta o sangrado o hematomas inusuales, comuníquese con su médico, ya que puede haber un problema con la sangre de su hijo. Si su hijo se enferma más de una vez, tiene dolores de estómago, tiene mucho sueño o su piel o el blanco de los ojos tienen un tinte amarillo, comuníquese con su médico o lleve a su hijo al hospital de inmediato, ya que puede haber un problema con la salud de su hijo. hígado. "
+    },
+    {
+        "name": "azatioprina para trasplante renal",
+        "BabyAlert": "Si su hijo tiene síntomas similares a los de la gripe, dolor de garganta o sangrado o hematomas inusuales, comuníquese con su médico, ya que puede haber un problema con la sangre de su hijo. Si su hijo comienza a sentirse mal cada pocas horas, tiene dolores de estómago, tiene mucho sueño o tiene ictericia (la piel o los ojos se vuelven amarillos), llévelo a su médico u hospital de inmediato, ya que puede haber un problema con el hígado de su hijo. "
+    },
+    {
+        "name": "azatioprina para el eczema atópico severo",
+        "BabyAlert": "Si su hijo tiene síntomas similares a los de la gripe, dolor de garganta o sangrado o hematomas inusuales, comuníquese con su médico, ya que puede haber un problema con la sangre de su hijo. Si su hijo comienza a sentirse mal cada pocas horas, tiene dolores de estómago, tiene mucho sueño o tiene ictericia (la piel o los ojos se vuelven amarillos), llévelo a su médico u hospital de inmediato, ya que puede haber un problema con el hígado de su hijo. "
+    },
+    {
+        "name": "azitromicina para la infección bacteriana",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la azitromicina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "baclofeno para el espasmo muscular",
+        "BabyAlert": "Si su hijo tiene un ataque (también llamado ataque o convulsión) o tiene mucho sueño o le cuesta despertarse, es posible que haya tomado demasiado baclofeno. Llévelos al hospital de inmediato. Si su hijo tiene dificultad para respirar, llévelo al hospital de inmediato. Dígale al médico que su hijo está tomando baclofeno. Lleve consigo el medicamento o el envase. "
+    },
+    {
+        "name": "toxina botulínica para la espasticidad muscular",
+        "BabyAlert": "Si su hijo tiene nuevas dificultades para tragar, problemas para respirar o una infección en el pecho poco después de una inyección de toxina botulínica, comuníquese con su médico de inmediato o lleve a su hijo al hospital. "
+    },
+    {
+        "name": "inhalador de budesonida para la prevención del asma",
+        "BabyAlert": "Si su hijo está tomando una dosis alta de budesonida, es posible que desarrolle una infección por hongos en la boca, llamada candidiasis oral. Si nota una cubierta gruesa de color blanco o color crema en la lengua de su hijo, o si la boca está roja e irritada, consulte a su médico, ya que es posible que necesite tratamiento. Puede ayudar a prevenir esto asegurándose de que su hijo se enjuague la boca con agua después de usar budesonida. "
+    },
+    {
+        "name": "buspirona para el trastorno de ansiedad",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la buspirona. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "sales de calcio para la enfermedad renal",
+        "BabyAlert": "Si su hijo tiene dolor al orinar (orinar), orina turbia, sangre en la orina o dolor intenso en cualquiera de los lados de la parte baja de la espalda, es posible que tenga cálculos renales. Llame a una ambulancia o lleve a su hijo al hospital de inmediato. Si su hijo tiene debilidad muscular, tiene más sed de lo normal, parece orinar con más frecuencia de lo normal, se siente mal (náuseas) o está enfermo (vómitos) o pierde el apetito, comuníquese con su médico, ya que puede tener demasiado calcio en la sangre. su sangre "
+    },
+    {
+        "name": "captopril para insuficiencia cardiaca",
+        "BabyAlert": "Si su hijo tiene una erupción en las primeras 2 semanas de tomar Captopril, comuníquese con su médico de inmediato, ya que puede ser alérgico a Captopril. No administre más medicamentos hasta que haya hablado con su médico. "
+    },
+    {
+        "name": "carbamazepina oral para prevenir las convulsiones",
+        "BabyAlert": "Si su hijo tiene una erupción, generalmente no se encuentra bien y tiene fiebre (temperatura superior a 38 °C) o hematomas o sangrado inusuales, llévelo a su médico u hospital de inmediato, ya que esto puede indicar una reacción más grave. Si su hijo desarrolla un sarpullido rojo con manchas en la piel en cualquier parte del cuerpo, o le salen ampollas en la boca, parece contraer más infecciones de lo habitual (p. sangrado que no se detiene tan rápido como cabría esperar, comuníquese con su médico de inmediato, ya que puede ser alérgico a la carbamazepina. "
+    },
+    {
+        "name": "carbimazol para la tiroides hiperactiva",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o la cara, los labios o la lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico al carbimazol. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo tiene fiebre (temperatura superior a 38 °C), dolor de garganta o úlceras en la boca, hematomas o sangrado inusuales, o se siente inusualmente cansado, comuníquese con su médico de inmediato. Si su hijo tiene dolores musculares o coloración amarillenta de la piel o los ojos, comuníquese con su médico. "
+    },
+    {
+        "name": "carvedilol para insuficiencia cardiaca",
+        "BabyAlert": "Si su hijo tiene una erupción en las primeras 2 semanas de tomar carvedilol, comuníquese con su médico de inmediato, ya que puede ser alérgico a carvedilol. No administre más medicamentos hasta que haya hablado con su médico. "
+    },
+    {
+        "name": "cefalexina para infecciones bacterianas",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la cefalexina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "cetirizina para la fiebre del heno",
+        "BabyAlert": "Si su hijo tiene un ritmo cardíaco irregular o rápido (aleteo o acelerado), comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "clorambucilo para el sindrome nefrotico",
+        "BabyAlert": "Póngase en contacto con su médico de inmediato si su hijo tiene fiebre (temperatura superior a 38 °C) con dolor de garganta o tos, o si tiene un sangrado inusual que es difícil de detener o hematomas graves. Si su hijo adquiere un tinte amarillento en la piel o en la parte blanca de los ojos, comuníquese con su médico de inmediato, ya que puede haber un problema con el hígado de su hijo. Si su hijo tiene dolor al orinar (hacer pipí) o tiene alguna dificultad para orinar, comuníquese con su médico. "
+    },
+    {
+        "name": "clorotiazida para enfermedad pulmonar crónica insuficiencia cardíaca ascitis e hipertensión arterial",
+        "BabyAlert": "Si su hijo se siente muy cansado o débil, comuníquese con su médico de inmediato. Si su hijo parece confundido, irritable o agresivo, comuníquese con su médico de inmediato. Si su hijo tiene mucho más sueño de lo normal y es difícil despertarlo, comuníquese con su médico de inmediato. Si su hijo tiene dolor de estómago intenso o diarrea y vómitos intensos, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "maleato de clorfenamina para la alergia",
+        "BabyAlert": "Si su hijo parece tener movimientos lentos, rígidos o incontrolables, comuníquese con su médico de inmediato o llévelo al hospital. Si su hijo no puede orinar (hacer pipí) cuando siente que lo necesita, comuníquese con su médico de inmediato o llévelo al hospital, ya que existe riesgo de daño renal. "
+    },
+    {
+        "name": "ciclosporina para el síndrome nefrótico",
+        "BabyAlert": "Póngase en contacto con su médico de inmediato si su hijo tiene fiebre (temperatura superior a 38 °C) con dolor de garganta o tos, o si tiene un sangrado inusual que es difícil de detener o hematomas graves. Muy raramente, los niños pueden tener dolores de cabeza y alteraciones visuales. Si esto sucede, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "gotas de ciprofloxacina para infeccion",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a las gotas de ciprofloxacina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "ciprofloxacina para infeccion bacteriana",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o la cara, los labios o la lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la ciprofloxacina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. En muy raras ocasiones, la ciprofloxacina puede causar problemas a largo plazo en las articulaciones y los nervios. Póngase en contacto con su médico inmediatamente si su hijo tiene dolor o hinchazón en los tendones, especialmente en el tobillo o la pantorrilla, dolor o hinchazón en las articulaciones, entumecimiento o dolor o sensación inusual (por ejemplo, hormigueo), debilidad, cansancio intenso, cambios en su estado de ánimo, dificultad para dormir o cambios en la visión, el gusto, el olfato o el oído. Su hijo debe descansar las partes afectadas hasta que haya hablado con su médico. "
+    },
+    {
+        "name": "claritromicina para infecciones bacterianas",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la claritromicina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo se queja de latidos cardíacos rápidos o intermitentes o de dolor en el pecho, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "clonazepam para prevenir las convulsiones",
+        "BabyAlert": "El clonazepam ocasionalmente afecta la sangre. Si su hijo parece tener más infecciones de lo habitual (p. ej., resfriados fuertes, infecciones de pecho o de la piel, malestar estomacal), parece que le salen hematomas con más facilidad o el sangrado no se detiene rápidamente, póngase en contacto con su médico inmediatamente. "
+    },
+    {
+        "name": "co amoxiclav para infecciones bacterianas",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a Co-amoxiclav. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Póngase en contacto con su médico para que le aconseje si su hijo desarrolla una erupción o cualquier problema en la piel, como ampollas, manchas, descamación, descamación, enrojecimiento u otro cambio de color. No administre más Co-amoxiclav. Póngase en contacto con su médico para que le aconseje si su hijo tiene diarrea que dura más de uno o dos días y, en particular, si contiene sangre o está muy pálida, o si la orina (pipí) es oscura, o si la piel o la parte blanca de los ojos parecen amarillo (ictericia). "
+    },
+    {
+        "name": "fosfato de codeína para el dolor",
+        "BabyAlert": "Signos de sobredosis o toxicidad Si su hijo tiene alucinaciones (ve cosas que no existen), comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "ciclofosfamida para el síndrome nefrótico",
+        "BabyAlert": "Póngase en contacto con su médico inmediatamente si su hijo presenta cualquier signo de infección, como fiebre (temperatura superior a 38 °C), escalofríos, dolor de garganta, tos o sarpullido. "
+    },
+    {
+        "name": "deferasirox para eliminar el exceso de hierro",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o la cara, los labios o la lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico al deferasirox. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo comienza a sentirse mal cada pocas horas, tiene dolores de estómago, tiene mucho sueño o tiene ictericia (la piel o los ojos se vuelven amarillos), llévelo a su médico u hospital de inmediato, ya que puede haber un problema con el hígado de su hijo. Si hay una reducción repentina en la capacidad de su hijo para orinar (wee), o si su bebé moja menos pañales, comuníquese con su médico, ya que puede haber un problema con los riñones de su hijo. "
+    },
+    {
+        "name": "desmopresina para mojar la cama",
+        "BabyAlert": "Si su hijo tiene una convulsión (esto es muy poco probable), llévelo al hospital de inmediato o llame a una ambulancia, ya que esto podría ser un síntoma de retención de líquidos grave. Dígale al médico que su hijo ha estado tomando desmopresina. Si su hijo tiene un sarpullido rojo con manchas o hinchazón en los labios, la cara o la lengua, es posible que sea alérgico a la desmopresina. Póngase en contacto con su médico de inmediato o llame a una ambulancia. La desmopresina a veces puede causar retención de líquidos. Los primeros síntomas son hinchazón de la cara, las manos o los pies, dolores de cabeza intensos o prolongados, somnolencia (sensación de sueño), aumento de peso inexplicable, malestar (náuseas) y malestar (vómitos). Si su hijo tiene alguno de estos síntomas, comuníquese con su médico de inmediato. No vuelva a administrar desmopresina hasta que su médico le diga que puede hacerlo. "
+    },
+    {
+        "name": "diazepam para el espasmo muscular",
+        "BabyAlert": "Si su hijo tiene mucho sueño o si tiene problemas para respirar, es posible que haya tomado demasiado diazepam. Llévelos al hospital de inmediato. "
+    },
+    {
+        "name": "diazepam rectal para detener las convulsiones",
+        "BabyAlert": "La respiración de su hijo puede volverse un poco superficial por un tiempo. No tienes que preocuparte por esto. Sin embargo, si cree que su hijo no está respirando o si los labios de su hijo se tiñen de azul, llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "diclofenaco para el dolor y la inflamación",
+        "BabyAlert": "Si a su hijo le duele mucho el estómago, vomita sangre o sus heces (caca) son muy oscuras, comuníquese con su médico o lleve a su hijo al hospital de inmediato, ya que puede tener una úlcera. "
+    },
+    {
+        "name": "domperidona para el reflujo gastroesofágico",
+        "BabyAlert": "Si su hijo tiene temblores (temblores), se mueve de forma extraña o lenta, o arrastra las palabras, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "dornasa alfa para la fibrosis quística",
+        "BabyAlert": "En raras ocasiones, la dornasa alfa puede causar dolor en el pecho o mayor dificultad para respirar. Si esto sucede, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "emla crema para anestesia local",
+        "BabyAlert": "Si su hijo tiene sarpullido, hinchazón o se siente débil, aturdido o sin aliento después de aplicar la crema EMLA, es posible que sea alérgico a ella. Limpie la crema y lleve a su hijo al hospital de inmediato. "
+    },
+    {
+        "name": "enalapril para la presion alta",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a Enalapril. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo parece tener hematomas con más facilidad o el sangrado no se detiene tan rápido como de costumbre, o si la piel o la parte blanca de los ojos se tiñen de amarillo, comuníquese con su médico de inmediato, ya que puede haber un problema con la sangre o la sangre de su hijo. hígado. Si su hijo tiene un ritmo cardíaco irregular o rápido (aleteo o acelerado), comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "enoximona para la hipertensión pulmonar",
+        "BabyAlert": "Si su hijo tiene un ritmo cardíaco irregular o rápido (aleteo o acelerado), comuníquese con su médico de inmediato. Si su hijo tiene hematomas o sangrado sin explicación, o si los cortes no dejan de sangrar rápidamente, comuníquese con su médico de inmediato, ya que puede haber un problema con la sangre de su hijo. "
+    },
+    {
+        "name": "eritromicina para infecciones bacterianas",
+        "BabyAlert": "Si su hijo presenta hinchazón de la cara, los labios o la lengua, erupción cutánea o picor, tiene dificultad para respirar o tiene un ataque (convulsiones), llévelo al hospital o llame a una ambulancia de inmediato, ya que puede ser alérgico a la eritromicina. "
+    },
+    {
+        "name": "etanercept para la artritis idiopática juvenil",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o tiene sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a Etanercept. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Etanercept ocasionalmente causa efectos secundarios graves. Estos son poco probables, pero debe comunicarse con su médico de inmediato si su hijo tiene alguno de los siguientes síntomas: "
+    },
+    {
+        "name": "etambutol para tratamientos de tuberculosis",
+        "BabyAlert": "Si su hijo parece tener hematomas con más facilidad o el sangrado no se detiene tan rápido como de costumbre, o si la piel o la parte blanca de los ojos se tiñen de amarillo, comuníquese con su médico de inmediato, ya que puede haber un problema con la sangre o la sangre de su hijo. hígado. Su hijo puede tener problemas con la vista: puede que le resulte difícil diferenciar los colores, que tenga una visión borrosa o que no pueda ver claramente las cosas en el borde de su visión. Si usted o su hijo piensan que su vista está cambiando, comuníquese con su médico de inmediato; no le dé más etambutol. Estos cambios normalmente se revertirán cuando se detenga el tratamiento. Si su hijo siente entumecimiento, debilidad u hormigueo en los brazos o las piernas, comuníquese con su médico, ya que puede haber un problema con los nervios de su hijo. Su hijo puede desarrollar picazón o sarpullido. Intente aplicar una crema humectante o una crema contra la picazón. Si esto no ayuda, continúe dándole etambutol, pero comuníquese con su médico en caso de que su hijo sea alérgico al etambutol. "
+    },
+    {
+        "name": "etosuximida para prevenir las convulsiones",
+        "BabyAlert": "Si su hijo tiene más dificultad para respirar o sibilancias más de lo normal, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la etosuximida. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo comienza a tener más ataques de lo normal, comuníquese con su médico o llévelo al hospital de inmediato. Si su hijo tiene fiebre (temperatura superior a 38 °C), dolor de garganta, úlceras en la boca, hematomas o sangrado, comuníquese con su médico o llévelo al hospital de inmediato. "
+    },
+    {
+        "name": "gliclazida para la diabetes mellitus tipo 2 y la diabetes de inicio en la madurez de los jóvenes",
+        "BabyAlert": "En raras ocasiones, la gliclazida puede hacer que el nivel de azúcar en la sangre baje demasiado. Si revisa los niveles de azúcar en la sangre de su hijo en casa y nota que el nivel de azúcar en la sangre es bajo (<2.6 en el control de BM), dele una bebida azucarada y lleve a su hijo al hospital de inmediato. Si no controla el nivel de azúcar en la sangre de su hijo en casa, las señales de que sus niveles de azúcar en la sangre son demasiado bajos son que pueden sentirse débiles, hambrientos, confundidos, ansiosos, temblorosos o que pueden volverse menos receptivos. Si le preocupa que el azúcar en la sangre pueda estar bajo, lleve a su hijo al hospital. "
+    },
+    {
+        "name": "glucagón para la hipoglucemia",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico al glucagón. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "griseofulvina para infecciones fúngicas",
+        "BabyAlert": "Si la piel de su hijo comienza a enrojecerse y luego se ampolla o se pela, comuníquese con su médico de inmediato, ya que puede estar teniendo una reacción a la griseofulvina. Si su hijo adquiere un tinte amarillento en la piel o en la parte blanca de los ojos, comuníquese con su médico de inmediato, ya que puede haber un problema con el hígado de su hijo. Si su hijo parece tener más infecciones de lo normal y tarda más de lo habitual en combatirlas, comuníquese con su médico, ya que (en muy raras ocasiones) puede haber un problema con la sangre de su hijo. "
+    },
+    {
+        "name": "guanfacina para el TDAH",
+        "BabyAlert": "Si su hijo tiene latidos cardíacos irregulares o rápidos (pueden decir que su corazón se siente agitado o acelerado), comuníquese con su médico de inmediato. Su hijo puede volverse irritable, agresivo, lloroso, deprimido o ansioso. Estos efectos son temporales y se revierten al suspender el tratamiento. Si está preocupado, comuníquese con su médico lo antes posible. Su hijo no debe dejar de tomar guanfacina repentinamente ya que esto puede afectar su presión arterial. "
+    },
+    {
+        "name": "hidroxicarbamida para la enfermedad de células falciformes",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la hidroxicarbamida. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si a su hijo le salen úlceras en la piel, los labios o la boca, o se le pela la piel o las uñas, póngase en contacto con su médico inmediatamente. Si su hijo parece tener moretones con más facilidad o si el sangrado no se detiene tan rápido como cabría esperar, es posible que haya un problema con la coagulación de la sangre. Póngase en contacto con un médico o lleve a su hijo al hospital inmediatamente. "
+    },
+    {
+        "name": "ibuprofeno para el dolor y la inflamacion",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico al ibuprofeno. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si a su hijo le duele mucho el estómago, vomita sangre o sus heces (caca) son muy oscuras, comuníquese con su médico o lleve a su hijo al hospital de inmediato, ya que puede tener una úlcera. El ibuprofeno puede empeorar el asma en algunos niños, pero esto es poco común. Póngase en contacto con su médico si está preocupado. "
+    },
+    {
+        "name": "idebenona para la ataxia de Friedreich",
+        "BabyAlert": "Si su hijo tiene fiebre (temperatura superior a 38 °C), dolor de garganta, sarpullido o úlceras en la boca, comuníquese con su médico de inmediato. Esto se debe a que la idebenona puede afectar los glóbulos blancos (neutropenia), lo que dificulta que el cuerpo de su hijo combata las infecciones. "
+    },
+    {
+        "name": "imipramina",
+        "BabyAlert": "Si su hijo tiene una convulsión (ataque), llévelo al hospital o llame a una ambulancia de inmediato, ya que es posible que haya tomado demasiada imipramina. Si el corazón de su hijo está acelerado o siente una sensación de aleteo en el pecho (palpitaciones), comuníquese con su médico de inmediato o lleve a su hijo al hospital. Si su hijo desarrolla batidos, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "combinación de isoniazida y rifampicina para la tuberculosis latente",
+        "BabyAlert": "Si su hijo desarrolla sarpullido, hinchazón de la cara, los labios, la lengua o la garganta, o tiene dificultad para respirar o tragar, es posible que sea alérgico a la isoniazida y la rifampicina. Póngase en contacto con su médico o lleve a su hijo al hospital inmediatamente. Si su hijo desarrolla cualquiera de los siguientes, llévelo a su médico u hospital de inmediato: Si su hijo tiene problemas con la vista (visión), tiene dificultad para diferenciar los colores o le duele el ojo, comuníquese con su médico de inmediato. Si su hijo parece tener más infecciones de lo habitual (p. ej., resfriados fuertes, infecciones de pecho o de la piel, malestar estomacal), parece que le salen hematomas con más facilidad o el sangrado no se detiene tan rápido como cabría esperar, póngase en contacto con su médico inmediatamente. de distancia, ya que puede haber un problema con la sangre de su hijo. Si su hijo se siente enfermo (náuseas) o está enfermo (vómitos) durante más de 24 horas, o la piel o la parte blanca de los ojos adquiere un tono amarillento, comuníquese con su médico de inmediato, ya que puede haber un problema con el hígado de su hijo. . No dé más isoniazida y rifampicina. Su hijo no debe usar lentes de contacto blandas mientras toma isoniazida y rifampicina, ya que es probable que se manchen. "
+    },
+    {
+        "name": "isoniazida para la tuberculosis latente",
+        "BabyAlert": "Si su hijo desarrolla sarpullido, hinchazón de la cara, los labios, la lengua o la garganta, o tiene dificultad para respirar o tragar, es posible que sea alérgico a la isoniazida. Póngase en contacto con su médico o lleve a su hijo al hospital inmediatamente. Si su hijo se siente enfermo (náuseas) o está enfermo (vómitos) durante más de 24 horas, o la piel o la parte blanca de los ojos adquiere un tono amarillento, comuníquese con su médico de inmediato, ya que puede haber un problema con el hígado de su hijo. . No le dé más isoniazida. Si su hijo parece tener más infecciones de lo habitual (p. ej., resfriados fuertes, infecciones de pecho o de la piel, malestar estomacal), parece que le salen hematomas con más facilidad o el sangrado no se detiene tan rápido como cabría esperar, póngase en contacto con su médico inmediatamente. de distancia, ya que puede haber un problema con la sangre de su hijo. Si su hijo tiene problemas con la vista (visión), tiene dificultad para diferenciar los colores o le duele el ojo, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "isoniazida para el tratamiento de la tuberculosis",
+        "BabyAlert": "Si a su hijo le aparece una erupción roja con manchas en cualquier parte del cuerpo, ampollas en la boca o fiebre (temperatura de 39 °C o más), comuníquese con su médico de inmediato o lleve a su hijo al hospital, ya que puede ser alérgico a la isoniazida. . Si su hijo se siente enfermo (náuseas) o está enfermo (vómitos) durante más de 24 horas, o la piel o la parte blanca de los ojos adquiere un tono amarillento, comuníquese con su médico de inmediato, ya que puede haber un problema con el hígado de su hijo. . No le dé más isoniazida. Si su hijo parece tener más infecciones de lo habitual (p. ej., resfriados fuertes, infecciones de pecho o de la piel, malestar estomacal), parece que le salen hematomas con más facilidad o el sangrado no se detiene tan rápido como cabría esperar, póngase en contacto con su médico inmediatamente. de distancia, ya que puede haber un problema con la sangre de su hijo. Si su hijo tiene problemas con la vista (visión), tiene dificultad para diferenciar los colores o le duele el ojo, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "mebendazol para infecciones por gusanos",
+        "BabyAlert": "Si a su hijo le salen ampollas en la piel, la boca, los ojos o los genitales, llévelo al hospital o llame a una ambulancia de inmediato. Muy raramente, el mebendazol puede causar convulsiones (ataques). Si su hijo tiene una convulsión, llame a una ambulancia. No sujete a su hijo, pero trate de asegurarse de que no pueda lastimarse (p. ej., coloque un cojín debajo de la cabeza y aléjelo de los muebles). Si su hijo parece tener hematomas con más facilidad o el sangrado no se detiene tan rápido como de costumbre, o si la piel o la parte blanca de los ojos se tiñen de amarillo, comuníquese con su médico de inmediato, ya que puede haber un problema con la sangre o la sangre de su hijo. hígado. Si su hijo adquiere un tinte amarillento en la piel o en la parte blanca de los ojos, comuníquese con su médico de inmediato, ya que puede haber un problema con el hígado de su hijo. "
+    },
+    {
+        "name": "clorhidrato de mebeverina para el espasmo intestinal",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la mebeverina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "melatonina para los trastornos del sueño",
+        "BabyAlert": "En raras ocasiones, la melatonina puede causar problemas en el corazón de su hijo. Si su hijo desarrolla dolor en el pecho o tiene un ritmo cardíaco acelerado (puede tener una sensación de aleteo en el pecho o sentir que su corazón late rápidamente), comuníquese con su médico de inmediato o lleve a su hijo al hospital. Si su hijo parece muy mal de alguna manera inusual para él y usted está preocupado, llévelo al hospital. "
+    },
+    {
+        "name": "enema de espuma de mesalazina para la enfermedad inflamatoria intestinal",
+        "BabyAlert": "Póngase en contacto con su médico inmediatamente si su hijo tiene diarrea que empeora repentinamente o contiene sangre, o dolor de estómago repentino o intenso. "
+    },
+    {
+        "name": "enema líquido de mesalazina para la enfermedad inflamatoria intestinal",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico al enema líquido de mesalazina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Póngase en contacto con su médico inmediatamente si su hijo tiene diarrea que empeora repentinamente o contiene sangre, o dolor de estómago repentino o intenso. "
+    },
+    {
+        "name": "mesalazina oral para la enfermedad inflamatoria intestinal",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la mesalazina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. La piel o el blanco de los ojos se vuelven amarillos (ictericia) o las heces (poo) son pálidas o la orina oscura; puede haber un problema con el hígado de su hijo. Moretones inexplicables, sangrado (p. ej., sangrado de la nariz), manchas moradas debajo de la piel, dolor de garganta, temperatura alta (más de 38 °C), palidez, malestar y cansancio: el medicamento puede haber afectado la sangre de su hijo. "
+    },
+    {
+        "name": "supositorios de mesalazina para la enfermedad inflamatoria intestinal",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a los ovulos de mesalazina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Póngase en contacto con su médico inmediatamente si su hijo tiene diarrea que empeora repentinamente o contiene sangre, o dolor de estómago repentino o intenso. "
+    },
+    {
+        "name": "metformina para la diabetes",
+        "BabyAlert": "Si su hijo empieza a respirar muy rápido y profundamente y se marea, se siente somnoliento y confuso, deje de darle este medicamento y llévelo al hospital o llame a una ambulancia de inmediato, ya que puede estar sufriendo una reacción rara a la metformina llamada acidosis láctica. "
+    },
+    {
+        "name": "metotrexato para enfermedades de la piel",
+        "BabyAlert": "Si su hijo tiene alguno de los siguientes, informe a su médico de inmediato: "
+    },
+    {
+        "name": "metilfenidato para el TDAH",
+        "BabyAlert": "Su hijo puede volverse irritable, agresivo, lloroso o deprimido. Estos efectos son temporales y se revierten al suspender el tratamiento. Debe ponerse en contacto con su médico lo antes posible. Si está preocupado, no le dé más metilfenidato hasta que haya hablado con su médico. Si su hijo tiene un ritmo cardíaco irregular o rápido (aleteo o acelerado), comuníquese con su médico de inmediato. Si su hijo es propenso a los tics (contracciones repentinas de los músculos de la cara o el cuerpo), el metilfenidato puede empeorarlos. Su hijo puede sentirse mareado o aturdido cuando se pone de pie, o puede desmayarse. Anímelos a ponerse de pie lentamente y a sentarse o acostarse si se sienten mareados o aturdidos. Si esto sucede con frecuencia, comuníquese con su médico, quien puede necesitar controlar la presión arterial de su hijo. Su hijo puede perder peso durante los primeros meses de tratamiento. Si está preocupado, comuníquese con su médico. Su hijo puede tener menos apetito. Puede ser útil administrar cada dosis de metilfenidato con o después de una comida. Si su hijo está tomando Equasym XL, consulte con su médico o farmacéutico antes de dárselo con una comida, ya que normalmente debe administrarse antes del desayuno. "
+    },
+    {
+        "name": "metronidazol para infecciones bacterianas",
+        "BabyAlert": "Si su hijo tiene un fuerte dolor de estómago que llega hasta la espalda, comuníquese con su médico o llévelo al hospital de inmediato, ya que puede tener un problema con el páncreas. Si su hijo está muy cansado o tiene hematomas o sangrado inusuales, comuníquese con su médico, ya que puede haber un problema con su sangre. Si su hijo adquiere un tinte amarillento en la piel o en la parte blanca de los ojos, comuníquese con su médico de inmediato, ya que puede haber un problema con el hígado de su hijo. "
+    },
+    {
+        "name": "midazolam para detener las convulsiones",
+        "BabyAlert": "La respiración de su hijo puede volverse un poco superficial por un tiempo. No tienes que preocuparte por esto. Sin embargo, si cree que su hijo no está respirando o si los labios de su hijo se tiñen de azul, llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "inhalador de furoato de mometasona para la profilaxis de prevención del asma",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la mometasona. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo está tomando una dosis alta de mometasona, es posible que desarrolle una infección por hongos en la boca, llamada candidiasis oral. Si nota una cubierta gruesa de color blanco o color crema en la lengua de su hijo, o si la boca está roja e irritada, consulte a su médico, ya que es posible que necesite tratamiento. Puede ayudar a prevenir esto asegurándose de que su hijo se enjuague la boca con agua después de usar mometasona. "
+    },
+    {
+        "name": "montelukast para el asma",
+        "BabyAlert": "Si su hijo presenta hinchazón de la cara, los labios o la lengua, erupción o picor en la piel, tiene dificultad para respirar o tiene un ataque (convulsiones), llévelo al hospital o llame a una ambulancia de inmediato, ya que puede ser alérgico a montelukast. Si su hijo tiene latidos cardíacos irregulares o rápidos (pueden decir que su corazón se siente agitado o acelerado), comuníquese con su médico de inmediato. Si su hijo adquiere un tinte amarillento en la piel o en la parte blanca de los ojos, comuníquese con su médico de inmediato, ya que puede haber un problema con el hígado de su hijo. Si su hijo parece tener moretones con más facilidad o si el sangrado no se detiene tan rápido como cabría esperar, es posible que haya un problema con la coagulación de la sangre. Póngase en contacto con un médico o lleve a su hijo al hospital inmediatamente. Si su hijo tiene síntomas similares a los de la gripe (temperatura superior a 38 °C, dolores, dolor de cabeza) y también hormigueo, entumecimiento, sarpullido y el asma empeora, comuníquese con su médico de inmediato, ya que puede tener un síndrome raro llamado Síndrome de Churg-Strauss. Esto es más probable si se ha reducido la dosis de esteroides inhalados que tiene su hijo (el inhalador marrón). "
+    },
+    {
+        "name": "morfina para el dolor",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar, deja de respirar o parece tener mucho sueño, llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "movicol para el estreñimiento",
+        "BabyAlert": "Si su hijo está enfermo (vomita) con frecuencia, o si el vómito es de color verde oscuro o marrón, es posible que tenga una obstrucción intestinal. No le dé a su hijo más Movicol y contacte con su médico inmediatamente. Si su hijo se siente débil, parece tener mucha sed y tiene dolor de cabeza, es posible que esté deshidratado. Póngase en contacto con su médico para obtener asesoramiento. "
+    },
+    {
+        "name": "micofenolato de mofetilo para el síndrome nefrótico",
+        "BabyAlert": "Si su hijo tiene síntomas similares a los de la gripe, dolor de garganta o sangrado o hematomas inusuales, comuníquese con su médico, ya que puede haber un problema con la sangre de su hijo. Si a su hijo le sale un sarpullido, tiene cambios en el estado de ánimo o en la vista, dificultad para respirar o malestar en el pecho, hinchazón de los pies o los tobillos, o cualquier dificultad para orinar (hacer pis), comuníquese con su médico de inmediato. Si su hijo tiene síntomas parecidos a los de la gripe, dolor de garganta, fiebre (temperatura superior a 38 °C) o hematomas o sangrado inusuales, comuníquese con su médico o lleve a su hijo al hospital de inmediato, ya que puede haber un problema con la sangre de su hijo. "
+    },
+    {
+        "name": "nifedipina para la presion alta",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la nifedipina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo tiene un ritmo cardíaco irregular o rápido (aleteo o acelerado), comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "nitrofurantoína para infecciones del tracto urinario",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la nitrofurantoína. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. La nitrofurantoína rara vez causa efectos secundarios graves. No es probable que sucedan, pero debe comunicarse con su médico de inmediato si su hijo tiene alguno de los siguientes síntomas: "
+    },
+    {
+        "name": "olanzapina para la esquizofrenia trastorno bipolar manía y agitación",
+        "BabyAlert": "Si su hijo se siente débil o mareado, o parece estar perdiendo el conocimiento, tiene fiebre (temperatura superior a 38 °C), tiene frío y sudor, tiene un ritmo cardíaco débil o rápido (puede sentir que su corazón está acelerado o acelerado). ) y músculos rígidos, es posible que tengan una rara reacción a la olanzapina. Póngase en contacto con su médico o lleve a su hijo al hospital o llame a una ambulancia de inmediato. Póngase en contacto con su médico de inmediato si su hijo tiene alguno de los siguientes: "
+    },
+    {
+        "name": "omeprazol para la enfermedad por reflujo gastroesofágico gord",
+        "BabyAlert": "Si su hijo desarrolla una erupción, hinchazón de la cara, los labios, la lengua o la garganta, o tiene dificultad para respirar o tragar, es posible que sea alérgico al omeprazol. Póngase en contacto con su médico o lleve a su hijo al hospital inmediatamente. "
+    },
+    {
+        "name": "oseltamivir para la gripe",
+        "BabyAlert": "Si su hijo tiene alguno de los siguientes, comuníquese con su médico de inmediato o llévelo al hospital: "
+    },
+    {
+        "name": "oxcarbazepina para prevenir las convulsiones",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o la cara, los labios o la lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la oxcarbazepina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo tiene un sarpullido con dolor de garganta y, por lo general, no se encuentra bien y tiene fiebre (temperatura superior a 38 °C), hematomas o sangrado inusuales, o si parece estar muy confundido y sus músculos comienzan a contraerse, comuníquese con su médico o llévelos al hospital de inmediato, ya que esto puede indicar una reacción más grave. "
+    },
+    {
+        "name": "oxibutinina para los síntomas urinarios diurnos",
+        "BabyAlert": "Si su hijo tiene un ritmo cardíaco irregular o rápido (aleteo o acelerado), comuníquese con su médico de inmediato. Su hijo puede sudar menos mientras toma oxibutinina. Tenga cuidado de que no se sobrecalienten, especialmente en climas cálidos y durante el ejercicio; asegúrese de que beban mucha agua. La piel de su hijo puede volverse más sensible a la luz solar. Manténgalos fuera del sol fuerte. Cuando estén al aire libre, deben usar blusas y pantalones de manga larga y un sombrero, y usar bloqueador solar de factor alto (al menos SPF 30). "
+    },
+    {
+        "name": "pancreatina para la insuficiencia pancreática",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la pancreatina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo tiene calambres estomacales o dolor de estómago intenso que no desaparece, comuníquese con su médico o lleve a su hijo al hospital de inmediato, ya que puede haber un problema con los intestinos de su hijo. "
+    },
+    {
+        "name": "penicilina v para infecciones bacterianas",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la penicilina V. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "penicilina v para la prevención de la infección neumocócica",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la penicilina V. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo tiene diarrea y vómitos, póngase en contacto con su médico, ya que podría ponerse muy mal. "
+    },
+    {
+        "name": "fenitoína para prevenir las convulsiones",
+        "BabyAlert": "Si su hijo desarrolla una erupción cutánea roja con manchas, comuníquese con su médico de inmediato, ya que su hijo puede ser alérgico a la fenitoína. La erupción generalmente afecta todo el cuerpo, pero puede afectar solo la cara. También puede ver ampollas en la boca y su hijo puede tener temperatura alta (fiebre). "
+    },
+    {
+        "name": "cloruro de potasio para el agotamiento de potasio",
+        "BabyAlert": "Si a su hijo le duele mucho el estómago, vomita sangre o sus heces (caca) son muy oscuras, comuníquese con su médico o lleve a su hijo al hospital de inmediato, ya que puede tener una úlcera. "
+    },
+    {
+        "name": "prednisolona para el síndrome nefrótico",
+        "BabyAlert": "La prednisolona puede causar úlceras en el estómago. Informe a su médico inmediatamente si su hijo tiene dolor de estómago fuerte o vómitos repetidos (estar enfermo). Si su hijo desarrolla una erupción o hematomas graves/inexplicables, comuníquese con su médico de inmediato, ya que puede haber un problema con la sangre de su hijo. Si su hijo tiene dolor en los ojos o cambios en la visión, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "pirazinamida para el tratamiento de la tuberculosis",
+        "BabyAlert": "Si su hijo tiene hinchazón de la cara, los labios o la lengua, dificultad para respirar o tiene erupción cutánea, picor o fiebre, llévelo inmediatamente a su médico u hospital, ya que puede ser alérgico a la pirazinamida. Si su hijo se siente enfermo o está enfermo (vomita) durante más de 24 horas, o su piel u ojos adquieren un tinte amarillo, o su orina (pipí) es oscura, comuníquese con su médico de inmediato, ya que puede haber un problema con su hígado de niño. No le dé más pirazinamida. Si su hijo desarrolla dolor o hinchazón en las articulaciones, o si tiene dificultad o dolor al orinar (hacer pis), comuníquese con su médico de inmediato. Si su hijo parece cansado o le falta el aire, parece que le salen moretones con más facilidad o si el sangrado no se detiene tan rápido como cabría esperar, comuníquese con su médico de inmediato, ya que puede haber un problema con la sangre de su hijo. "
+    },
+    {
+        "name": "ramipril para la presion alta",
+        "BabyAlert": "Si la cara, los labios o la lengua de su hijo comienzan a hincharse, o desarrolla una erupción, llévelo al hospital o llame a una ambulancia de inmediato, ya que su hijo puede estar desarrollando angioedema, que debe tratarse. "
+    },
+    {
+        "name": "rifampicina para la profilaxis meningocócica",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o la cara, los labios o la lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la rifampicina. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo desarrolla cualquiera de los siguientes, llévelo a su médico u hospital de inmediato: "
+    },
+    {
+        "name": "rifampicina para el tratamiento de la tuberculosis",
+        "BabyAlert": "Si su hijo presenta hinchazón de la cara, los labios o la lengua, erupción o picor en la piel, tiene dificultad para respirar o tiene un ataque (convulsiones), llévelo al hospital o llame a una ambulancia de inmediato, ya que puede ser alérgico a la rifampicina. Si su hijo desarrolla cualquiera de los siguientes, llévelo a su médico u hospital de inmediato: "
+    },
+    {
+        "name": "risedronato para huesos frágiles",
+        "BabyAlert": "Si su hijo tiene dolor en la parte superior del estómago o en la parte inferior del pecho, o una sensación de ardor que sube por la garganta, es posible que tenga una inflamación en el esófago (tubo de alimentación). Póngase en contacto con su médico de inmediato. Si su hijo tiene un sarpullido y, en general, no se encuentra bien y tiene fiebre (temperatura alta) o hematomas o sangrado inusuales, comuníquese con su médico o lleve a su hijo al hospital de inmediato, ya que esto puede indicar una reacción más grave. "
+    },
+    {
+        "name": "risperidona para trastornos psicológicos",
+        "BabyAlert": "Si su hijo se siente débil o mareado, o parece estar perdiendo el conocimiento, tiene fiebre (temperatura superior a 38 °C), tiene frío y sudor, tiene un ritmo cardíaco débil o rápido (puede sentir que su corazón está acelerado o acelerado). ) y músculos rígidos, es posible que tengan una rara reacción a la risperidona. Póngase en contacto con su médico o lleve a su hijo al hospital o llame a una ambulancia de inmediato. Su hijo puede comenzar a tener algunos movimientos musculares inusuales que no había tenido antes, como espasmos musculares, espasmos en la mandíbula, la lengua o la cara y el cuerpo, movimientos lentos, temblores o rigidez. Póngase en contacto con su médico lo antes posible. "
+    },
+    {
+        "name": "rufinamida para prevenir las convulsiones",
+        "BabyAlert": "Si su hijo tiene fiebre (temperatura alta) en las primeras 2 o 3 semanas de comenzar con la rufinamida, es posible que esté reaccionando al medicamento. Póngase en contacto con su médico de inmediato. "
+    },
+    {
+        "name": "inhalador de salmeterol para el asma",
+        "BabyAlert": "Si su hijo tiene latidos cardíacos irregulares o rápidos (pueden decir que su corazón se siente agitado o acelerado), comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "sertralina para el trastorno obsesivo compulsivo ocd y la depresión",
+        "BabyAlert": "Si su hijo parece confundido o agitado y tiene fiebre (temperatura superior a 38 °C), rigidez muscular y latidos cardíacos rápidos, llévelo al hospital o llame a una ambulancia de inmediato. Pueden tener una reacción rara pero grave llamada síndrome serotoninérgico. Si su hijo presenta hinchazón de ojos, cara o labios, sarpullido, enrojecimiento, picazón, ampollas o descamación de la piel, o tiene dificultad para respirar, llévelo a su médico u hospital de inmediato. Pueden ser alérgicos a la sertralina. Muy raramente, la sertralina puede causar convulsiones (ataques). Si su hijo tiene una convulsión, llame a una ambulancia. No sujete a su hijo, pero trate de asegurarse de que no pueda lastimarse (p. ej., coloque un cojín debajo de la cabeza y aléjelo de los muebles). Si su hijo tiene problemas para concentrarse, parece confuso, inestable o desorientado, o tiene alucinaciones (ver cosas que no existen), comuníquese con su médico de inmediato. Si su hijo se siente deprimido o suicida, tenso, nervioso, preocupado o al límite, comuníquese con su médico lo antes posible. "
+    },
+    {
+        "name": "bicarbonato de sodio para la acidosis",
+        "BabyAlert": "Si a su hijo le falta el aire y se le hincha la cara, póngase en contacto con su médico inmediatamente, ya que la cantidad de sodio puede ser demasiado alta. No le dé más bicarbonato de sodio a su hijo hasta que su médico se lo indique. "
+    },
+    {
+        "name": "cloruro de sodio para la hiponatremia",
+        "BabyAlert": "Si a su hijo le falta el aire y se le hincha la cara, póngase en contacto con su médico inmediatamente, ya que la cantidad de sodio puede ser demasiado alta. No le dé más cloruro de sodio a su hijo hasta que su médico se lo indique. "
+    },
+    {
+        "name": "picosulfato de sodio para el estreñimiento",
+        "BabyAlert": "Si su hijo parece tener músculos débiles, calambres musculares o un ritmo cardíaco acelerado (su hijo puede sentir que su corazón se acelera o palpita), comuníquese con su médico de inmediato. Si su hijo se siente débil, parece tener mucha sed y tiene dolor de cabeza, es posible que esté deshidratado. Póngase en contacto con su médico para obtener asesoramiento. Su hijo puede tener diarrea (caca que moquea). Si le preocupa que sea muy grave, consulte a su médico. Es posible que deba darle a su hijo menos picosulfato de sodio. "
+    },
+    {
+        "name": "valproato de sodio para prevenir las convulsiones",
+        "BabyAlert": "Si su hijo tiene fuertes dolores de estómago o comienza a tener náuseas (vómitos) con frecuencia, o ambos, llévelo a su médico u hospital de inmediato. Su hijo puede tener un problema grave llamado pancreatitis. Los niños ocasionalmente contraen enfermedades hepáticas cuando toman valproato de sodio. Si su hijo empieza a sentirse mal cada pocas horas, le duele el estómago, tiene mucho sueño, le da ictericia (la piel o los ojos se ponen amarillentos) o tiene más convulsiones de lo habitual, llévelo inmediatamente al médico o al hospital. Las manos de su hijo pueden temblar. Póngase en contacto con su médico si esto sucede. Si nota sangrado o hematomas inusuales, comuníquese con su médico. "
+    },
+    {
+        "name": "espironolactona para la insuficiencia cardiaca",
+        "BabyAlert": "Si su hijo adquiere un tinte amarillento en la piel o en la parte blanca de los ojos, comuníquese con su médico de inmediato, ya que puede haber un problema con su hígado. Si los latidos del corazón de su hijo parecen irregulares (pueden decir que se siente aleteo), tienen sensaciones de hormigueo, parálisis (dificultad para moverse) o dificultad para respirar, llévelos a al hospital de inmediato, ya que pueden tener demasiado potasio en su sangre. "
+    },
+    {
+        "name": "estiripentol para prevenir las convulsiones",
+        "BabyAlert": "Su hijo puede perder el apetito y perder peso, y puede sentirse enfermo (náuseas). Su hijo puede sentirse somnoliento (somnolencia) o puede volverse irritable o agresivo y tener dificultad para dormir. Estos efectos deberían mejorar a medida que el cuerpo de su hijo se acostumbra al medicamento. Si no mejoran después de 2 a 3 semanas, comuníquese con su médico para que lo aconseje. "
+    },
+    {
+        "name": "sulpirida para la esquizofrenia y el síndrome de tourettes",
+        "BabyAlert": "Póngase en contacto con su médico de inmediato si su hijo tiene alguno de los siguientes: "
+    },
+    {
+        "name": "sumatriptán para las migrañas",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o la cara, los labios o la lengua empiezan a hincharse, o desarrolla una erupción, es posible que sea alérgico al sumatriptán. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "tacrolimus para la prevención del rechazo de trasplantes",
+        "BabyAlert": "Si a su hijo le sale una erupción en la piel, manchas o picazón, tiene problemas para respirar o parece que le falta el aire o tiene sibilancias, o si la cara, la garganta, los labios o la lengua empiezan a hincharse, es posible que sea alérgico al tacrolimus. Llévelos al hospital o llame a una ambulancia de inmediato. Si su hijo tiene dolor al orinar (hacer pipí) o produce menos orina de lo normal, comuníquese con su médico, especialista en trasplantes o enfermera de inmediato, ya que su hijo puede tener un problema renal. "
+    },
+    {
+        "name": "gel de tetracaína para anestesia local",
+        "BabyAlert": "Si se forman ampollas en la piel después de aplicar el gel, retire el gel con un pañuelo y enjuague el área suavemente con agua corriente. Póngase en contacto con su médico o enfermera para obtener asesoramiento. Si su hijo desarrolla una erupción cutánea o hinchazón en la cara o la lengua, es posible que sea alérgico al gel. Retire cualquier gel, enjuague la piel con agua y comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "topiramato para prevenir las convulsiones",
+        "BabyAlert": "Su hijo puede sudar menos mientras toma topiramato. Tenga cuidado de que no se sobrecalienten, especialmente en climas cálidos y durante el ejercicio; asegúrese de que beban mucha agua. "
+    },
+    {
+        "name": "tramadol para el dolor",
+        "BabyAlert": "Si su hijo tiene latidos cardíacos irregulares o rápidos (pueden decir que su corazón se siente agitado o acelerado), o su respiración se vuelve irregular, comuníquese con su médico o lleve a su hijo al hospital de inmediato. Si su hijo tiene alucinaciones (ve cosas que no existen), comuníquese con su médico de inmediato. Si su hijo está muy somnoliento o tiene una respiración lenta, comuníquese con su médico de inmediato. "
+    },
+    {
+        "name": "ácido tranexámico para el sangrado abundante durante los períodos",
+        "BabyAlert": "Existe un pequeño riesgo de que el ácido tranexámico pueda causar un coágulo en otra parte del cuerpo. su hija tiene hinchazón, enrojecimiento y dolor en el pie o la pierna; ella puede tener un coágulo de sangre en la pierna Su hija pierde repentinamente la capacidad de ver con uno o ambos ojos; ella puede tener un pequeño coágulo de sangre en el ojo su hija de repente se confunde, tiene dificultad para hablar, se vuelve torpe, tiene un fuerte dolor de cabeza o se debilita con entumecimiento en un lado de su cuerpo; ella puede tener un pequeño coágulo de sangre en su cerebro. A su hija le falta el aire de repente o tiene un dolor intenso en el pecho; ella puede tener un pequeño coágulo de sangre en su pulmón. Si su hijo tiene problemas para ver los colores, comuníquese con su médico de inmediato. Es posible que sea necesario suspender el medicamento. "
+    },
+    {
+        "name": "ácido tranexámico para el tratamiento o la prevención de hemorragias en la hemofilia y otros problemas de coagulación",
+        "BabyAlert": "Existe un riesgo muy pequeño de que el ácido tranexámico pueda causar un coágulo en otra parte del cuerpo. Si ocurre algo de lo siguiente, lleve a su hijo al hospital o llame a una ambulancia de inmediato: Si su hijo tiene problemas para ver los colores, comuníquese con su médico de inmediato. Es posible que sea necesario suspender el medicamento. "
+    },
+    {
+        "name": "clorhidrato de trihexifenidilo para la distonía",
+        "BabyAlert": "Si su hijo no puede orinar (hacer pipí) cuando siente que lo necesita, llévelo a su médico o al hospital de inmediato. La vista de su hijo puede volverse borrosa (borrosa). Si esto sucede, póngase en contacto con su médico para que le aconseje. "
+    },
+    {
+        "name": "trimetoprima para infecciones bacterianas",
+        "BabyAlert": "Si su hijo tiene más dificultad para respirar o sibilancias más de lo normal, o si su cara, labios o lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la trimetoprima. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo tiene una erupción cutánea grave, picor, descamación o ampollas en la piel, póngase en contacto con su médico de inmediato, ya que puede necesitar tratamiento en el hospital. No le dé más trimetoprima a su hijo. "
+    },
+    {
+        "name": "ácido ursodesoxicólico para la colestasis y la colangitis esclerosante",
+        "BabyAlert": "Si su hijo tiene dificultad para respirar o sibilancias, o la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico al ácido ursodesoxicólico. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "vigabatrina para prevenir las convulsiones",
+        "BabyAlert": "Algunas personas (en su mayoría adultos) encuentran que la vigabatrina afecta su visión periférica (pueden ver menos en los bordes de su visión). Es más probable que esto suceda después de tomar Vigabatrin durante al menos seis a doce meses. Es posible que usted o su hijo no noten este efecto. Sin embargo, puede ser un problema importante y no siempre mejora cuando se suspende el medicamento. Si su hijo tiene 8 años o más, su médico programará una prueba ocular especial para medir su campo visual (la cantidad que puede ver) antes de comenzar a tomar vigabatrina y luego cada 6 meses mientras continúe tomándola. Por lo general, no es posible evaluar el campo visual con precisión en niños menores de 8 años. Su hijo puede estar irritable, agitado o deprimido. Si esto sucede, comuníquese con su médico. Su hijo puede estar somnoliento (somnolencia), letárgico (cansado, sin energía) o confuso. Esto debería mejorar por sí solo. Si no es así, póngase en contacto con su médico. "
+    },
+    {
+        "name": "warfarina para el tratamiento y la prevención de la trombosis",
+        "BabyAlert": "Si su hijo tiene hemorragias nasales, sangrado inusual en cualquier otra parte del cuerpo, sangrado difícil de detener o hematomas inusuales o sin explicación, la dosis de warfarina puede ser demasiado alta. Póngase en contacto con su médico o llame al NHS Direct de inmediato. Si las heces (poo) de su hijo se ven negras o rojas, o si su orina es de color naranja oscuro o rojo, esto puede ser una señal de sangrado dentro del cuerpo. Póngase en contacto con su médico o llame al NHS Direct de inmediato. "
+    },
+    {
+        "name": "zafirlukast para la profilaxis de prevención del asma",
+        "BabyAlert": "Si su hijo tiene más dificultad para respirar o sibilancias más frecuentes de lo normal, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a Zafirlukast. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. "
+    },
+    {
+        "name": "zidovudina para el tratamiento de la infección por vih",
+        "BabyAlert": "En muy raras ocasiones, la zidovudina puede causar convulsiones (ataques). Si su hijo tiene una convulsión, llame a una ambulancia. No sujete a su hijo, pero trate de asegurarse de que no pueda lastimarse (p. ej., coloque un cojín debajo de la cabeza y aléjelo de los muebles). Si su hijo tiene dolores o debilidad en los brazos o las piernas, tiene dificultad para respirar o tiene dolor de estómago con náuseas (ganas de vomitar) y vómitos (estar enfermo), llévelo a su médico u hospital inmediatamente, ya que puede haber un problema con la sangre de su hijo (acumulación de ácido láctico). Si su hijo tiene síntomas similares a los de la gripe, dolor de garganta o sangrado o hematomas inusuales, comuníquese con su médico, ya que puede haber un problema con la sangre de su hijo. Si su hijo comienza a sentirse mal cada pocas horas, tiene dolores de estómago, tiene mucho sueño o tiene ictericia (la piel o los ojos se vuelven amarillos), llévelo a su médico u hospital de inmediato, ya que puede haber un problema con el hígado de su hijo. "
+    },
+    {
+        "name": "zonisamida para prevenir las convulsiones",
+        "BabyAlert": "Si a su hijo le falta el aire o tiene sibilancias, o si la cara, los labios o la lengua comienzan a hincharse, o desarrolla una erupción, es posible que sea alérgico a la zonisamida. Lleve a su hijo al hospital o llame a una ambulancia de inmediato. Si su hijo tiene una erupción, generalmente no se encuentra bien y tiene fiebre (temperatura superior a 38 °C) o hematomas o sangrado inusuales, llévelo a su médico u hospital de inmediato, ya que esto puede indicar una reacción más grave. Su hijo puede sudar menos mientras toma zonisamida. Tenga cuidado de que no se sobrecalienten, especialmente en climas cálidos y durante el ejercicio; asegúrese de que beban mucha agua. "
+    }
+]
