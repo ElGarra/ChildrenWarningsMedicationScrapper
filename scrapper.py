@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 from googletrans import Translator
 
 class Scrapper():
-    """Class to scrapp https://www.medicinesforchildren.org.uk/ webpage and cathc the data"""
+    """Class to scrapp https://www.medicinesforchildren.org.uk/ webpage and catch the data"""
 
     def __init__(self):
         self.alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
