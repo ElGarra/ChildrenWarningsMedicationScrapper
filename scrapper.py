@@ -123,5 +123,5 @@ class Scrapper():
                     json_list = json.dumps(
                         self.dict_list, ensure_ascii=False, indent=4).encode('utf8')
 
-        with open("BabyAlertScrapper.json", "w", encoding="utf8") as file:
+        with open("Coaching.json", "w", encoding="utf8") as file:
             file.write(json_list.decode())
